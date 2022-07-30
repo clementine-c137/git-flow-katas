@@ -18,6 +18,3 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Bohemian Rhapsody](song/feb/Bohemian_Rhapsody.md)
 
-### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
-
-[Mr. Brightside](song/jan/mr_brightside.md)
